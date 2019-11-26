@@ -1,0 +1,32 @@
+K: void
+ID: main
+(
+K: void
+)
+{
+K: int
+ID: x
+;
+K: int
+ID: y
+;
+K: if
+(
+ID: x
++
+ID: y
+*
+NUM: 6
+>=
+NUM: 4
+*
+ID: x
+)
+{
+ID: x
+=
+NUM: 5
+;
+}
+}
+$

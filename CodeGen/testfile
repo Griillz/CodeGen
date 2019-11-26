@@ -1,0 +1,7 @@
+void main(void) {
+int x;
+int y;
+if(x + y * 6 >= 4 * x) {
+x = 5;
+}
+}
